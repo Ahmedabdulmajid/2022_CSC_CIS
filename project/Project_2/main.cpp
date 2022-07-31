@@ -2,11 +2,9 @@
 
 /* 
  * File:   main.cpp
- * Author: Elias Silva
+ * Author: Ahmed Abdulmajid
  * Purpose: C++ Template To be used in all future Assignments
- *
- * Created on June 23, 2022, 8:28 PM
- */
+ * 
 
 //System Libraries 
 #include <iostream>
